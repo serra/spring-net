@@ -227,11 +227,10 @@ using Spring.Context;
     }
 ...</programlisting>To help ensure that the XML configuration of the
       MovieLister class must specify a value for the MovieFinder property, you
-      can add the [Required] attribute to the MovieLister's MovieFinder
+      can add the <literal>[Required]</literal> attribute to the MovieLister's MovieFinder
       property. The example code shows uses this attribute. For more
-      information on using and configuring the [Required] attribute, refer to
-      this <link
-      linkend="object-factory-extension-opp-examplesrapp">section</link> of
+      information on using and configuring the <literal>[Required]</literal> attribute, refer to
+      <xref linkend="object-factory-extension-opp-examplesrapp" /> in
       the reference documentation.</para>
     </sect2>
 
