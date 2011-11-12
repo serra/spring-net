@@ -1,0 +1,2502 @@
+<HTML>
+<HEAD>
+      <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   </HEAD>
+<BODY>
+<OBJECT type="text/site properties">
+<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="The Spring.NET Framework">
+<param name="Local" value="index.html"></OBJECT></LI>
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Preface">
+<param name="Local" value="preface.html"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="introduction.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview">
+<param name="Local" value="introduction.html#introduction-overview"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Background">
+<param name="Local" value="introduction.html#d4e73"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Modules">
+<param name="Local" value="introduction.html#intro-modules"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Usage Scenarios">
+<param name="Local" value="introduction.html#d4e134"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Quickstart applications">
+<param name="Local" value="introduction.html#d4e141"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Associated Spring.NET Projects">
+<param name="Local" value="introduction.html#d4e189"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="License Information">
+<param name="Local" value="introduction.html#d4e225"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Support">
+<param name="Local" value="introduction.html#d4e229"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Background information">
+<param name="Local" value="background.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Inversion of Control">
+<param name="Local" value="background.html#background-ioc"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Migrating from 1.1 M2">
+<param name="Local" value="migration.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="migration.html#M2RC1-introduction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Important Changes">
+<param name="Local" value="migration.html#migration-changes"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Namespaces">
+<param name="Local" value="migration.html#d4e259"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Core">
+<param name="Local" value="migration.html#d4e285"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Web">
+<param name="Local" value="migration.html#d4e290"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Data">
+<param name="Local" value="migration.html#d4e293"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Support for .NET 4">
+<param name="Local" value="migration.html#d4e299"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Core Technologies">
+<param name="Local" value="spring-core.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="The IoC container">
+<param name="Local" value="objects.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="objects.html#objects-introduction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Container overview">
+<param name="Local" value="objects.html#objects-basics"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Configuration metadata">
+<param name="Local" value="objects.html#objects-configuration-metadata"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Instantiating a container">
+<param name="Local" value="objects.html#objects-factory-instantiation"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Loading configuration metadata from non-default resource locations">
+<param name="Local" value="objects.html#d4e413"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Declarative configuration of the container in App.config/Web.config">
+<param name="Local" value="objects.html#d4e438"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Composing XML-based configuration metadata">
+<param name="Local" value="objects.html#objects-factory-xml-import"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Using the container">
+<param name="Local" value="objects.html#objects-factory-client"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Object definition overview">
+<param name="Local" value="objects.html#objects-definition"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Naming objects">
+<param name="Local" value="objects.html#objects-objectname"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Aliasing an object outside the object definition">
+<param name="Local" value="objects.html#d4e597"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Instantiating objects">
+<param name="Local" value="objects.html#objects-factory-class"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Instantiatoin with a constructor">
+<param name="Local" value="objects.html#objects-factory-class-ctor"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Instantiation with a static factory method">
+<param name="Local" value="objects.html#objects-factory-class-static-factory-method"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Object creation via an instance factory method">
+<param name="Local" value="objects.html#objects-factory-class-instance-factory-method"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Object creation of generic types">
+<param name="Local" value="objects.html#objects-creation-generic-types"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Object creation of generic types via constructor invocation">
+<param name="Local" value="objects.html#objects-factory-generic-class-ctor"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Object creation of generic types via static factory method">
+<param name="Local" value="objects.html#objects-factory-generic-static-factory"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Object creation of generic types via instance factory method">
+<param name="Local" value="objects.html#objects-factory-generic-instance-factory"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Dependencies">
+<param name="Local" value="objects.html#objects-dependencies"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Dependency injection">
+<param name="Local" value="objects.html#objects-factory-collaborators"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Constructor-based dependency injection">
+<param name="Local" value="objects.html#objects-ctor-injection"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Constructor argument resolution">
+<param name="Local" value="objects.html#objects-ctor-arg-resolution"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Constructor argument type matching">
+<param name="Local" value="objects.html#objects-ctor-arg-type-matching"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Constructor argument Index">
+<param name="Local" value="objects.html#objects-ctor-arg-index"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Constructor arguments by name">
+<param name="Local" value="objects.html#objects-ctor-arg-by-name"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Setter-based dependency injection">
+<param name="Local" value="objects.html#objects-setter-injection"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Examples of dependency injection">
+<param name="Local" value="objects.html#objects-di-examples"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Dependencies and configuration in detail">
+<param name="Local" value="objects.html#object-factory-properties-detailed"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Straight values (primitives, strings, and so on)">
+<param name="Local" value="objects.html#objects-simple-values"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="The idref element">
+<param name="Local" value="objects.html#d4e909"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Whitespace Handling">
+<param name="Local" value="objects.html#d4e925"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="References to other objects (collaborators)">
+<param name="Local" value="objects.html#objects-ref-element"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Inner objects">
+<param name="Local" value="objects.html#objects-inline-object"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Setting collection values">
+<param name="Local" value="objects.html#objects-collections-values"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Setting generic collection values">
+<param name="Local" value="objects.html#objects-generic-collections-values"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Collection Merging">
+<param name="Local" value="objects.html#d4e1010"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Null and empty values">
+<param name="Local" value="objects.html#objects-null-values"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Setting indexer properties">
+<param name="Local" value="objects.html#d4e1061"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Value and ref shortcut forms">
+<param name="Local" value="objects.html#objects-shortcutforms"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Compound property names and Spring expression references">
+<param name="Local" value="objects.html#objects-referencing-compound-properties"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Declarative Event Listener Registration">
+<param name="Local" value="objects.html#d4e1114"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Declarative event handlers">
+<param name="Local" value="objects.html#d4e1131"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Configuring a method to be invoked when an event is fired">
+<param name="Local" value="objects.html#objects-simple-event-configuration"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Registering a collection of handler methods based on a regular expression">
+<param name="Local" value="objects.html#objects-handler-reg-ex-configuration"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Registering a handler method against an event name that contains a regular expression">
+<param name="Local" value="objects.html#objects-event-name-reg-ex-configuration"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Using depends-on">
+<param name="Local" value="objects.html#objects-factory-dependson"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Lazily-initialized objects">
+<param name="Local" value="objects.html#d4e1193"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Autowiring collaborators">
+<param name="Local" value="objects.html#objects-factory-autowire"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Checking for dependencies">
+<param name="Local" value="objects.html#objects-factory-dependencies"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Method injection">
+<param name="Local" value="objects.html#objects-method-injection"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Lookup Method Injection">
+<param name="Local" value="objects.html#objects-method-injection-lookup"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Arbitrary method replacement">
+<param name="Local" value="objects.html#objects-method-injection-replacement"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Setting a reference using the members of other objects and classes.">
+<param name="Local" value="objects.html#objects-advancedproperty-setting"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Setting a reference to the value of property.">
+<param name="Local" value="objects.html#d4e1359"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Setting a reference to the value of field.">
+<param name="Local" value="objects.html#d4e1379"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Setting a property or constructor argument to the return value of a method invocation.">
+<param name="Local" value="objects.html#objects-methodfactory"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Provided IFactoryObject implementations">
+<param name="Local" value="objects.html#objects-objectfactories"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Common logging">
+<param name="Local" value="objects.html#objects-objectfactories-log4net"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Object Scopes">
+<param name="Local" value="objects.html#objects-factory-scopes"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="The singleton scope">
+<param name="Local" value="objects.html#objects-factory-scopes-singleton"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="The prototype scope">
+<param name="Local" value="objects.html#objects-factory-scopes-prototype"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Singleton objects with prototype-object dependencies">
+<param name="Local" value="objects.html#objects-factory-scopes-sing-prot-interaction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Request, session and web application scopes">
+<param name="Local" value="objects.html#d4e1527"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Type conversion">
+<param name="Local" value="objects.html#objects-type-conversion"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Type Conversion for Enumerations">
+<param name="Local" value="objects.html#objects-type-conversion-enums"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Built-in TypeConverters">
+<param name="Local" value="objects.html#objects-type-conversion-builtin"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Custom Type Conversion">
+<param name="Local" value="objects.html#objects-type-conversion-custom-overview"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Using CustomConverterConfigurer">
+<param name="Local" value="objects.html#objects-type-conversion-customconverter"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customizing the nature of an object">
+<param name="Local" value="objects.html#objects-factory-nature"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Lifecycle interfaces">
+<param name="Local" value="objects.html#objects-factory-lifecycle"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IInitializingObject / init-method">
+<param name="Local" value="objects.html#objects-factory-lifecycle-initializingobject"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IDisposable / destroy-method">
+<param name="Local" value="objects.html#objects-factory-lifecycle-disposableobject"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="IApplicationContextAware and IObjectNameAware">
+<param name="Local" value="objects.html#objects-factory-aware"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IObjectNameAware">
+<param name="Local" value="objects.html#objects-factory-aware-objectnameaware"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Object definition inheritance">
+<param name="Local" value="objects.html#objects-childobjects"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Container extension points">
+<param name="Local" value="objects.html#objects-factory-extension"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Obtaining an IFactoryObject, not its product">
+<param name="Local" value="objects.html#d4e1843"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Container extension points">
+<param name="Local" value="objects.html#d4e1860"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customizing objects with IObjectPostProcessors">
+<param name="Local" value="objects.html#objects-factory-customizing"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Example: Hello World, IObjectPostProcessor-style">
+<param name="Local" value="objects.html#object-factory-extension-opp-examples-hw"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Example: the RequiredAttributeObjectPostProcessor">
+<param name="Local" value="objects.html#object-factory-extension-opp-examplesrapp"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customizing configuration metadata with ObjectFactoryPostProcessors">
+<param name="Local" value="objects.html#objects-factory-customizing-factory-postprocessors"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Example: The PropertyPlaceholderConfigurer">
+<param name="Local" value="objects.html#objects-factory-placeholderconfigurer"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Type, Ref, and Expression substitution">
+<param name="Local" value="objects.html#d4e2060"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Replacement with Environment Variables">
+<param name="Local" value="objects.html#objects-factory-placeholderconfigurer-envvars"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Example: The PropertyOverrideConfigurer">
+<param name="Local" value="objects.html#objects-factory-overrideconfigurer"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IVariableSource">
+<param name="Local" value="objects.html#objects-variablesource"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customizing instantiation logic using IFactoryObjects">
+<param name="Local" value="objects.html#objects-factory-lifecycle-factoryobject"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IConfigurableFactoryObject">
+<param name="Local" value="objects.html#d4e2177"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="The IApplicationContext">
+<param name="Local" value="objects.html#context-introduction"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IObjectFactory or IApplicationContext?">
+<param name="Local" value="objects.html#d4e2221"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Configuration of IApplicationContext">
+<param name="Local" value="objects.html#context-configuration"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Registering custom parsers">
+<param name="Local" value="objects.html#context-custom-parsers"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Registering custom resource handlers">
+<param name="Local" value="objects.html#context-custom-resourcehandler"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Registering Type Aliases">
+<param name="Local" value="objects.html#context-type-alias"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Registering Type Converters">
+<param name="Local" value="objects.html#context-type-converters"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Added functionality of the IApplicationContext">
+<param name="Local" value="objects.html#context-functionality"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Context Hierarchies">
+<param name="Local" value="objects.html#context-functionality-hierarchy"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Using IMessageSource">
+<param name="Local" value="objects.html#context-functionality-messagesource"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Using resources within Spring.NET">
+<param name="Local" value="objects.html#context-functionality-resources"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Loosely coupled events">
+<param name="Local" value="objects.html#context-functionality-pubsub"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Event notification from IApplicationContext">
+<param name="Local" value="objects.html#context-functionality-events"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customized behavior in the ApplicationContext">
+<param name="Local" value="objects.html#objects-context-customization"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="The IApplicationContextAware marker interface">
+<param name="Local" value="objects.html#objects-context-applicationcontextaware"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="The IObjectPostProcessor">
+<param name="Local" value="objects.html#objects-context-objectpostprocessor"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="The IObjectFactoryPostProcessor">
+<param name="Local" value="objects.html#objects-context-objectfactorypostprocessor"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="The PropertyPlaceholderConfigurer">
+<param name="Local" value="objects.html#objects-context-placeholderconfigurer"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Configuration of ApplicationContext without using XML">
+<param name="Local" value="objects.html#d4e2575"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Service Locator access">
+<param name="Local" value="objects.html#objects-servicelocator"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Stereotype attributes">
+<param name="Local" value="objects.html#d4e2607"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="The IObjectWrapper and Type conversion">
+<param name="Local" value="objects-misc.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="objects-misc.html#objects-misc-introduction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Manipulating objects using the IObjectWrapper">
+<param name="Local" value="objects-misc.html#objects-objects"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Setting and getting basic and nested properties">
+<param name="Local" value="objects-misc.html#objects-objects-conventions"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Other features worth mentioning">
+<param name="Local" value="objects-misc.html#objects-objects-other"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Type conversion">
+<param name="Local" value="objects-misc.html#objects-objects-conversion"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Type Conversion for Enumerations">
+<param name="Local" value="objects-misc.html#objects-misc-enums"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Built-in TypeConverters">
+<param name="Local" value="objects-misc.html#object-objects-builtin-converters"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Custom type converters">
+<param name="Local" value="objects-misc.html#d4e2815"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Resources">
+<param name="Local" value="resources.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="resources.html#objects-iresource"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="The IResource interface">
+<param name="Local" value="resources.html#d4e2832"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Built-in IResource implementations">
+<param name="Local" value="resources.html#d4e2893"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Registering custom IResource implementations">
+<param name="Local" value="resources.html#d4e2912"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="The IResourceLoader">
+<param name="Local" value="resources.html#d4e2923"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="The IResourceLoaderAware interface">
+<param name="Local" value="resources.html#d4e2943"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application contexts and IResource paths">
+<param name="Local" value="resources.html#d4e2960"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Threading and Concurrency Support">
+<param name="Local" value="threading.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="threading.html#threading-introduction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Thread Local Storage">
+<param name="Local" value="threading.html#d4e2972"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Synchronization Primitives">
+<param name="Local" value="threading.html#d4e3006"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ISync">
+<param name="Local" value="threading.html#d4e3011"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SyncHolder">
+<param name="Local" value="threading.html#d4e3018"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Latch">
+<param name="Local" value="threading.html#d4e3032"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Semaphore">
+<param name="Local" value="threading.html#d4e3041"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Object Pooling">
+<param name="Local" value="pool.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="pool.html#pool-introduction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Interfaces and Implementations">
+<param name="Local" value="pool.html#pool-api"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Spring.NET miscellanea">
+<param name="Local" value="misc.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="misc.html#spring-net-miscellanea"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PathMatcher">
+<param name="Local" value="misc.html#pathmatcher"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="General rules">
+<param name="Local" value="misc.html#pathmatcher-general-rules"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Matching filenames">
+<param name="Local" value="misc.html#pathmatcher-matching-filenames"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Matching subdirectories">
+<param name="Local" value="misc.html#pathmatcher-matching-subdirectories"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Case does matter, slashes don't">
+<param name="Local" value="misc.html#pathmatcher-case-matters"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Expression Evaluation">
+<param name="Local" value="expressions.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="expressions.html#expressions-introduction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Evaluating Expressions">
+<param name="Local" value="expressions.html#expressions-evaluating"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Language Reference">
+<param name="Local" value="expressions.html#expressions-language-ref"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Literal expressions">
+<param name="Local" value="expressions.html#expressions-literals"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Properties, Arrays, Lists, Dictionaries, Indexers">
+<param name="Local" value="expressions.html#expressions-properties"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Defining Arrays, Lists and Dictionaries Inline">
+<param name="Local" value="expressions.html#d4e3202"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Methods">
+<param name="Local" value="expressions.html#expressions-methods"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Operators">
+<param name="Local" value="expressions.html#expressions-operators"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Relational operators">
+<param name="Local" value="expressions.html#expressions-relational"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Logical operators">
+<param name="Local" value="expressions.html#expressions-logical"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Bitwise operators">
+<param name="Local" value="expressions.html#expressions-bitwise"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Mathematical operators">
+<param name="Local" value="expressions.html#expressions-math"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Assignment">
+<param name="Local" value="expressions.html#expressions-assignment"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Expression lists">
+<param name="Local" value="expressions.html#expressions-explist"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Types">
+<param name="Local" value="expressions.html#expressions-types"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Type Registration">
+<param name="Local" value="expressions.html#expressions-typeregistration"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Constructors">
+<param name="Local" value="expressions.html#expressions-ctor"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Variables">
+<param name="Local" value="expressions.html#expressions-variables"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="The '#this' and '#root' variables">
+<param name="Local" value="expressions.html#expressions-this"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Ternary Operator (If-Then-Else)">
+<param name="Local" value="expressions.html#expressions-ternary"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="List Projection and Selection">
+<param name="Local" value="expressions.html#d4e3325"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Collection Processors and Aggregators">
+<param name="Local" value="expressions.html#expressions-processors"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Count Aggregator">
+<param name="Local" value="expressions.html#d4e3364"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Sum Aggregator">
+<param name="Local" value="expressions.html#d4e3372"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Average Aggregator">
+<param name="Local" value="expressions.html#d4e3377"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Minimum Aggregator">
+<param name="Local" value="expressions.html#d4e3382"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Maximum Aggregator">
+<param name="Local" value="expressions.html#d4e3388"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Non-null Processor">
+<param name="Local" value="expressions.html#d4e3394"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Distinct Processor">
+<param name="Local" value="expressions.html#d4e3399"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Sort Processor">
+<param name="Local" value="expressions.html#d4e3406"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Type Conversion Processor">
+<param name="Local" value="expressions.html#d4e3412"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Reverse Processor">
+<param name="Local" value="expressions.html#d4e3416"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OrderBy Processor">
+<param name="Local" value="expressions.html#d4e3420"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="User Defined Collection Processor">
+<param name="Local" value="expressions.html#d4e3424"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Spring Object References">
+<param name="Local" value="expressions.html#expressions-object-references"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Lambda Expressions">
+<param name="Local" value="expressions.html#expressions-lamda"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Delegate Expressions">
+<param name="Local" value="expressions.html#d4e3475"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Null Context">
+<param name="Local" value="expressions.html#d4e3480"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Classes used in the examples">
+<param name="Local" value="expressions.html#expressions-classes"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Validation Framework">
+<param name="Local" value="validation.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="validation.html#d4e3491"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Example Usage">
+<param name="Local" value="validation.html#d4e3508"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Validator Groups">
+<param name="Local" value="validation.html#d4e3524"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Validators">
+<param name="Local" value="validation.html#d4e3566"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Condition Validator">
+<param name="Local" value="validation.html#d4e3569"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Required Validator">
+<param name="Local" value="validation.html#d4e3580"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Regular Expression Validator">
+<param name="Local" value="validation.html#d4e3633"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Generic Validator">
+<param name="Local" value="validation.html#d4e3644"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Conditional Validator Execution">
+<param name="Local" value="validation.html#d4e3655"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Validator Actions">
+<param name="Local" value="validation.html#d4e3666"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Error Message Action">
+<param name="Local" value="validation.html#d4e3669"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Exception Action">
+<param name="Local" value="validation.html#d4e3686"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Generic Actions">
+<param name="Local" value="validation.html#d4e3692"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Validator References">
+<param name="Local" value="validation.html#d4e3703"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Progammatic usage">
+<param name="Local" value="validation.html#d4e3711"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Usage tips within ASP.NET">
+<param name="Local" value="validation.html#validation-aspnet-usage"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Rendering Validation Errors">
+<param name="Local" value="validation.html#d4e3730"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Configuring which Error Renderer to use.">
+<param name="Local" value="validation.html#d4e3768"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="How Validate() and Validation Controls play together">
+<param name="Local" value="validation.html#d4e3775"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Aspect Oriented Programming with Spring.NET">
+<param name="Local" value="aop.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="aop.html#aop-introduction-concepts"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AOP concepts">
+<param name="Local" value="aop.html#aop-introduction-defn"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Spring.NET AOP capabilities">
+<param name="Local" value="aop.html#aop-introduction-Spring.NET-defn"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AOP Proxies in Spring.NET">
+<param name="Local" value="aop.html#aop-introduction-proxies"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Pointcut API in Spring.NET">
+<param name="Local" value="aop.html#aop-pointcuts"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Concepts">
+<param name="Local" value="aop.html#aop-pointcut-concepts"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Operations on pointcuts">
+<param name="Local" value="aop.html#aop-pointcut-operations"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Convenience pointcut implementations">
+<param name="Local" value="aop.html#aop-convenience-impls"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Static pointcuts">
+<param name="Local" value="aop.html#aop-static-pointcuts"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Regular expression pointcuts">
+<param name="Local" value="aop.html#aop-regularexpression-pointcut"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Attribute pointcuts">
+<param name="Local" value="aop.html#aop-attribute-pointcut"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Dynamic Pointcuts">
+<param name="Local" value="aop.html#aop-dynamic-pointucts"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Control Flow Pointcuts">
+<param name="Local" value="aop.html#d4e3972"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Custom pointcuts">
+<param name="Local" value="aop.html#d4e3991"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Advice API in Spring.NET">
+<param name="Local" value="aop.html#aop-advice-types"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Advice Lifecycle">
+<param name="Local" value="aop.html#aop-introduction-advice-lifecycle"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Advice types">
+<param name="Local" value="aop.html#aop-introduction-advice-types"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Interception Around Advice">
+<param name="Local" value="aop.html#d4e4012"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Before advice">
+<param name="Local" value="aop.html#d4e4028"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Throws advice">
+<param name="Local" value="aop.html#aop-introduction-advice-types-throws"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="After Returning advice">
+<param name="Local" value="aop.html#d4e4081"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Advice Ordering">
+<param name="Local" value="aop.html#aop-advice-ordering"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction advice">
+<param name="Local" value="aop.html#d4e4094"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Advisor API in Spring.NET">
+<param name="Local" value="aop.html#aop-advisors"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Using the ProxyFactoryObject to create AOP proxies">
+<param name="Local" value="aop.html#aop-proxyfactoryobject"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Basics">
+<param name="Local" value="aop.html#aop-pfb-1"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ProxyFactoryObject Properties">
+<param name="Local" value="aop.html#aop-pfb-2"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Proxying Interfaces">
+<param name="Local" value="aop.html#aop-proxying-interfaces"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Proxying Classes">
+<param name="Local" value="aop.html#d4e4282"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Concise proxy definitions">
+<param name="Local" value="aop.html#d4e4296"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Proxying mechanisms">
+<param name="Local" value="aop.html#aop-proxy-mechanism"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="InheritanceBasedAopConfigurer">
+<param name="Local" value="aop.html#aop-inheritancebasedaopconfigurer"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Creating AOP Proxies Programatically with the ProxyFactory">
+<param name="Local" value="aop.html#aop-prog"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Manipulating Advised Objects">
+<param name="Local" value="aop.html#aop-advised-objects"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Using the &#34;autoproxy&#34; facility">
+<param name="Local" value="aop.html#aop-autoproxy"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Autoproxy object definitions">
+<param name="Local" value="aop.html#aop-autoproxy-choices"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ObjectNameAutoProxyCreator">
+<param name="Local" value="aop.html#aop-nameautoproxy"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DefaultAdvisorAutoProxyCreator">
+<param name="Local" value="aop.html#aop-advisorautoproxy"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PointcutFilteringAutoProxyCreator">
+<param name="Local" value="aop.html#d4e4437"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TypeNameAutoProxyCreator">
+<param name="Local" value="aop.html#d4e4441"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AttributeAutoProxyCreator">
+<param name="Local" value="aop.html#d4e4445"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AbstractFilteringAutoProxyCreator">
+<param name="Local" value="aop.html#d4e4448"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AbstractAutoProxyCreator">
+<param name="Local" value="aop.html#d4e4451"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Using attribute-driven auto-proxying">
+<param name="Local" value="aop.html#aop-autoproxy-metadata"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Using AOP Namespace">
+<param name="Local" value="aop.html#aop-namespace"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Using TargetSources">
+<param name="Local" value="aop.html#aop-targetsource"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Hot swappable target sources">
+<param name="Local" value="aop.html#aop-ts-swap"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Pooling target sources">
+<param name="Local" value="aop.html#aop-ts-pool"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Prototype target sources">
+<param name="Local" value="aop.html#aop-ts-prototype"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ThreadLocal target sources">
+<param name="Local" value="aop.html#d4e4530"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Defining new Advice types">
+<param name="Local" value="aop.html#aop-extensibility"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Further reading and resources">
+<param name="Local" value="aop.html#aop-futher-reading"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Aspect Library">
+<param name="Local" value="aop-aspect-library.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="aop-aspect-library.html#aop-library-introduction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Caching">
+<param name="Local" value="aop-aspect-library.html#caching-aspect"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Exception Handling">
+<param name="Local" value="aop-aspect-library.html#exception-aspect"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Language Reference">
+<param name="Local" value="aop-aspect-library.html#d4e4689"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Logging">
+<param name="Local" value="aop-aspect-library.html#logging-aspect"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Retry">
+<param name="Local" value="aop-aspect-library.html#retry-aspect"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Language Reference">
+<param name="Local" value="aop-aspect-library.html#d4e4796"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Transactions">
+<param name="Local" value="aop-aspect-library.html#tx-aspect"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parameter Validation">
+<param name="Local" value="aop-aspect-library.html#parameter-validation"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Common Logging">
+<param name="Local" value="logging.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="logging.html#logging-abstract"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Testing">
+<param name="Local" value="testing.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="testing.html#testing-introduction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Unit testing">
+<param name="Local" value="testing.html#unit-testing"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Integration testing">
+<param name="Local" value="testing.html#integration-testing"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Context management and caching">
+<param name="Local" value="testing.html#testing-ctx-management"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Dependency Injection of test fixtures">
+<param name="Local" value="testing.html#testing-fixture-di"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Field level injection">
+<param name="Local" value="testing.html#testing-fixture-di-field"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Transaction management">
+<param name="Local" value="testing.html#testing-tx"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Convenience variables">
+<param name="Local" value="testing.html#testing-superclasses"></OBJECT></LI>
+</UL></UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Middle Tier Data Access">
+<param name="Local" value="spring-middle-tier.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Transaction management">
+<param name="Local" value="transaction.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="transaction.html#tx-introduction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Motivations">
+<param name="Local" value="transaction.html#motivations"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Key Abstractions">
+<param name="Local" value="transaction.html#key-abstractions"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Resource synchronization with transactions">
+<param name="Local" value="transaction.html#resource-sync"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="High-level approach">
+<param name="Local" value="transaction.html#tx-highlevel"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Low-level approach">
+<param name="Local" value="transaction.html#tx-lowlevel"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Declarative transaction management">
+<param name="Local" value="transaction.html#dtm"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Understanding Spring's declarative transaction implementation">
+<param name="Local" value="transaction.html#tx-understandingimpl"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Example of declarative transaction implementation">
+<param name="Local" value="transaction.html#tx-firstexample"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Declarative transactions using the transaction namespace">
+<param name="Local" value="transaction.html#tx-namespace"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Transaction attribute settings">
+<param name="Local" value="transaction.html#tx-attributes-settings"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Declarative Transactions using AutoProxy">
+<param name="Local" value="transaction.html#tx-autoproxy"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Creating transactional proxies with ObjectNameAutoProxyCreator">
+<param name="Local" value="transaction.html#tx-creating-using-objectnameautoproxycreator"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Creating transactional proxies with DefaultAdvisorAutoProxyCreator">
+<param name="Local" value="transaction.html#tx-creating-using-defaultadvisorautoproxycreator"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Programmatic transaction management">
+<param name="Local" value="transaction.html#transaction-programmatic"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Using the TransactionTemplate">
+<param name="Local" value="transaction.html#tx-prog-template"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Specifying transaction settings">
+<param name="Local" value="transaction.html#d4e5488"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Using the PlatformTransactionManager">
+<param name="Local" value="transaction.html#transaction-programmatic-ptm"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Choosing between programmatic and declarative transaction management">
+<param name="Local" value="transaction.html#d4e5510"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Transaction lifecycle and status information">
+<param name="Local" value="transaction.html#d4e5513"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="DAO support">
+<param name="Local" value="dao.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="dao.html#dao-introduction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Consistent exception hierarchy">
+<param name="Local" value="dao.html#dao-exceptions"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Consistent abstract classes for DAO support">
+<param name="Local" value="dao.html#d4e5628"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="DbProvider">
+<param name="Local" value="dbprovider.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="dbprovider.html#dbprovider-introduction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IDbProvider and DbProviderFactory">
+<param name="Local" value="dbprovider.html#dbprovider-dbprovider"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XML based configuration">
+<param name="Local" value="dbprovider.html#d4e5831"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Connection String management">
+<param name="Local" value="dbprovider.html#d4e5841"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Additional IDbProvider implementations">
+<param name="Local" value="dbprovider.html#dbprovider-additional"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UserCredentialsDbProvider">
+<param name="Local" value="dbprovider.html#dbprovider-usercredentials"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MultiDelegatingDbProvider">
+<param name="Local" value="dbprovider.html#dbprovider-multidelegating"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Data access using ADO.NET">
+<param name="Local" value="ado.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="ado.html#ado-introduction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Motivations">
+<param name="Local" value="ado.html#ado-motivations"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Provider Abstraction">
+<param name="Local" value="ado.html#ado-providers"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Creating an instance of IDbProvider">
+<param name="Local" value="ado.html#ado-dbprovider-creating-instance"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Namespaces">
+<param name="Local" value="ado.html#ado-namespaces"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Approaches to Data Access">
+<param name="Local" value="ado.html#ado-data-access-approaches"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction to AdoTemplate">
+<param name="Local" value="ado.html#ado-adotemplate-intro"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Execute Callback">
+<param name="Local" value="ado.html#ado-execute-callback"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Execute Callback in .NET 2.0">
+<param name="Local" value="ado.html#ado-execute-callback-net2"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Execute Callback in .NET 1.1">
+<param name="Local" value="ado.html#ado-execute-callback-net11"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Quick Guide to AdoTemplate Methods">
+<param name="Local" value="ado.html#ado-template-method-guide"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Quick Guide to AdoTemplate Properties">
+<param name="Local" value="ado.html#ado-adotemplate-properties-quicguide"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Transaction Management">
+<param name="Local" value="ado.html#ado-transaction-management"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Exception Translation">
+<param name="Local" value="ado.html#ado-exception-translation"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parameter Management">
+<param name="Local" value="ado.html#ado-parameter-management"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IDbParametersBuilder">
+<param name="Local" value="ado.html#ado-idbparametersbuilder"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IDbParameters">
+<param name="Local" value="ado.html#ado-idbparameters"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Parameter names in SQL text">
+<param name="Local" value="ado.html#d4e6319"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Custom IDataReader implementations">
+<param name="Local" value="ado.html#ado-dbnull"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Basic data access operations">
+<param name="Local" value="ado.html#ado-basic-operations"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ExecuteNonQuery">
+<param name="Local" value="ado.html#ado-executenonquery"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ExecuteScalar">
+<param name="Local" value="ado.html#ado-executescalar"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Queries and Lightweight Object Mapping">
+<param name="Local" value="ado.html#ado-lightweight-orm"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ResultSetExtractor">
+<param name="Local" value="ado.html#ado-resultsetextractor"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RowCallback">
+<param name="Local" value="ado.html#ado-rowcallback"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RowMapper">
+<param name="Local" value="ado.html#ado-rowmapper"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Query for a single object">
+<param name="Local" value="ado.html#ado-query-for-single-object"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Query using a CommandCreator">
+<param name="Local" value="ado.html#ado-queyr-commandcreator"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="DataTable and DataSet">
+<param name="Local" value="ado.html#ado-datatable-dataset"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DataTables">
+<param name="Local" value="ado.html#ado-datatable"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DataSets">
+<param name="Local" value="ado.html#ado-dataset"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="TableAdapters and participation in transactional context">
+<param name="Local" value="ado.html#ado-tableadapter-tx"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Database operations as Objects">
+<param name="Local" value="ado.html#ado-objects"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AdoQuery">
+<param name="Local" value="ado.html#ado-adoquery"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MappingAdoQuery">
+<param name="Local" value="ado.html#ado-mappingadoquery"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AdoNonQuery">
+<param name="Local" value="ado.html#ado-adononquery"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Stored Procedure">
+<param name="Local" value="ado.html#ado-storedproc"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Object Relational Mapping (ORM) data access">
+<param name="Local" value="orm.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="orm.html#orm-introduction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NHibernate">
+<param name="Local" value="orm.html#orm-hibernate"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Resource management">
+<param name="Local" value="orm.html#orm-resource-mngmnt"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Transaction Management">
+<param name="Local" value="orm.html#orm-tx-mgmt"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SessionFactory set up in a Spring container">
+<param name="Local" value="orm.html#orm-session-factory-setup"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Creating a new SessionFactory per Connection String with DelegatingLocalSessionFactory Object">
+<param name="Local" value="orm.html#d4e6788"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Using FluentNHibernate to configure mappings with LocalSessionFactoryObject">
+<param name="Local" value="orm.html#d4e6797"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Spring's IByteCodeProvider implementation">
+<param name="Local" value="orm.html#orm-hibernate-bytecodeprovider"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Implementing DAOs based on plain Hibernate 1.2/2.x API">
+<param name="Local" value="orm.html#orm-hibernate-straight"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Exception Translation">
+<param name="Local" value="orm.html#orm-hibernate-straight-ex"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Declarative transaction demarcation">
+<param name="Local" value="orm.html#orm-hibernate-tx-declarative"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Programmatic transaction demarcation">
+<param name="Local" value="orm.html#orm-hibernate-tx-programmatic"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Transaction management strategies">
+<param name="Local" value="orm.html#orm-hibernate-tx-strategies"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Web Session Management">
+<param name="Local" value="orm.html#orm-hibernate-web"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Session Scope">
+<param name="Local" value="orm.html#orm-hibernate-sessionscope"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Integration Testing">
+<param name="Local" value="orm.html#orm-hibernate-integration-testing"></OBJECT></LI>
+</UL></UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="The Web">
+<param name="Local" value="spring-web.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Spring.NET Web Framework">
+<param name="Local" value="web.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction to Spring.NET Web Framework">
+<param name="Local" value="web.html#web-introduction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Comparing Spring.NET and ASP.NET">
+<param name="Local" value="web.html#d4e6970"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Automatic context loading and hierarchical contexts">
+<param name="Local" value="web.html#web-contexts"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Configuration of a web application">
+<param name="Local" value="web.html#web-configuration"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Configuration for IIS 7.0 on Windows Server 2008 and Windows Vista">
+<param name="Local" value="web.html#d4e7053"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Context hierarchy">
+<param name="Local" value="web.html#web-context-hierarchy"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Dependency injection for ASP.NET pages">
+<param name="Local" value="web.html#web-di"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Injecting dependencies into controls">
+<param name="Local" value="web.html#web-di-controls"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Injecting dependencies into custom HTTP modules">
+<param name="Local" value="web.html#web-di-modules"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Injecting dependencies into HTTP handlers and handler factories">
+<param name="Local" value="web.html#web-di-handler"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Injecting dependencies in custom ASP.NET providers">
+<param name="Local" value="web.html#d4e7181"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customizing control dependency injection">
+<param name="Local" value="web.html#web-controlling-di"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Web object scopes">
+<param name="Local" value="web.html#web-objectscope"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Support for ASP.NET 1.1 master pages in Spring.Web">
+<param name="Local" value="web.html#web-masterpages"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Linking child pages to their master page file">
+<param name="Local" value="web.html#web-childpage-linking"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Bidirectional data binding and data model management">
+<param name="Local" value="web.html#web-databinding"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Data binding under the hood">
+<param name="Local" value="web.html#web-binding-detail"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Binding direction">
+<param name="Local" value="web.html#web-binding-direction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="formatter argument">
+<param name="Local" value="web.html#web-binding-formatters"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Type conversion">
+<param name="Local" value="web.html#web-id-typeconversion"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Data binding events">
+<param name="Local" value="web.html#web-binding-events"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Rendering binding errors">
+<param name="Local" value="web.html#web-binding-errors"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="HttpRequestListBindingContainer">
+<param name="Local" value="web.html#web-binding-list"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Using DataBindingPanel">
+<param name="Local" value="web.html#web-databindingpanel"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customizing model persistence">
+<param name="Local" value="web.html#d4e7482"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Localization and message sources">
+<param name="Local" value="web.html#web-localization"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Working with localizers">
+<param name="Local" value="web.html#web-localizers"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Automatic localization with localizers (&#34;push&#34; localization)">
+<param name="Local" value="web.html#web-localization-push"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Global message sources">
+<param name="Local" value="web.html#web-globalresources"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Applying resources manually (&#34;pull&#34; localization)">
+<param name="Local" value="web.html#web-pull-localization"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Localizing images within a web application">
+<param name="Local" value="web.html#web-localizing-images"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="User culture management">
+<param name="Local" value="web.html#web-culture"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DefaultWebCultureResolver">
+<param name="Local" value="web.html#d4e7628"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RequestCultureResolver">
+<param name="Local" value="web.html#d4e7639"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SessionCultureResolver">
+<param name="Local" value="web.html#d4e7645"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CookieCultureResolver">
+<param name="Local" value="web.html#d4e7651"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Changing cultures">
+<param name="Local" value="web.html#web-culture-changing"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Result mapping">
+<param name="Local" value="web.html#web-resultmapping"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Registering user defined transfer modes">
+<param name="Local" value="web.html#web-resultmapping-custom"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Client-side scripting">
+<param name="Local" value="web.html#web-clientscripting"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Registering scripts within the head HTML section">
+<param name="Local" value="web.html#web-scripthead"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Adding CSS definitions to the head section">
+<param name="Local" value="web.html#web-scriptcss"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Well-known directories">
+<param name="Local" value="web.html#web-wellknowdirectory"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Spring user controls">
+<param name="Local" value="web.html#web-usercontrols"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Validation controls">
+<param name="Local" value="web.html#web-validation-controls"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Databinding controls">
+<param name="Local" value="web.html#d4e7811"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Calendar control">
+<param name="Local" value="web.html#d4e7817"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Panel control">
+<param name="Local" value="web.html#d4e7821"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="ASP.NET AJAX">
+<param name="Local" value="ajax.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="ajax.html#introduction-ajax"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Web Services">
+<param name="Local" value="ajax.html#webServices"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Exposing Web Services">
+<param name="Local" value="ajax.html#exposingWebServices"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Calling Web Services by using JavaScript">
+<param name="Local" value="ajax.html#callingWebServices"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Spring.NET ASP.NET MVC Infrastructure for ASP.NET MVC 2.0">
+<param name="Local" value="web-mvc.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction to Spring.NET ASP.NET MVC Infrastructure">
+<param name="Local" value="web-mvc.html#web-mvc-introduction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Automatic context loading and hierarchical contexts">
+<param name="Local" value="web-mvc.html#web-mvc-contexts"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Configuration of a ASP.NET MVC Application">
+<param name="Local" value="web-mvc.html#web-mvc-configuration"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customizing the Behavior of the ASP.NET MVC Application Class">
+<param name="Local" value="web-mvc.html#d4e7934"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application_Start(object sender, EventArgs e)">
+<param name="Local" value="web-mvc.html#mvc-application-start-method"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ConfigureApplicationContext()">
+<param name="Local" value="web-mvc.html#mvc-configure-application-context-method"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RegisterSpringControllerFactory()">
+<param name="Local" value="web-mvc.html#mvc-register-spring-controller-factory-method"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RegisterRoutes(RouteCollection routes)">
+<param name="Local" value="web-mvc.html#mvc-register-routes-method"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RegisterAreas()">
+<param name="Local" value="web-mvc.html#mvc-register-areas-method"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Web object scopes">
+<param name="Local" value="web-mvc.html#web-mvc-objectscope"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Spring.NET ASP.NET MVC Infrastructure for ASP.NET MVC 3.0">
+<param name="Local" value="web-mvc3.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction to Spring.NET ASP.NET MVC Infrastructure">
+<param name="Local" value="web-mvc3.html#web-mvc3-introduction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Automatic context loading and hierarchical contexts">
+<param name="Local" value="web-mvc3.html#web-mvc3-contexts"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Configuration of a ASP.NET MVC Application">
+<param name="Local" value="web-mvc3.html#web-mvc3-configuration"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Customizing the Behavior of the ASP.NET MVC Application Class">
+<param name="Local" value="web-mvc3.html#d4e8067"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application_BeginRequest(object sender, EventArgs e)">
+<param name="Local" value="web-mvc3.html#mvc3-application-begin-request-method"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ConfigureApplicationContext()">
+<param name="Local" value="web-mvc3.html#mvc3-configure-application-context-method"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BuildDependencyResolver()">
+<param name="Local" value="web-mvc3.html#mvc3-build-dependency-resolver-method"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RegisterDependencyResolver(IDependencyResolver resolver)">
+<param name="Local" value="web-mvc3.html#mvc3-register-dependency-resolver-method"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Web object scopes">
+<param name="Local" value="web-mvc3.html#web-mvc3-objectscope"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Services">
+<param name="Local" value="spring-services.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction to Spring Services">
+<param name="Local" value="psa-intro.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="psa-intro.html#d4e8141"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value=".NET Remoting">
+<param name="Local" value="remoting.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="remoting.html#remoting-introduction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Publishing SAOs on the Server">
+<param name="Local" value="remoting.html#remoting-publishsao"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SAO Singleton">
+<param name="Local" value="remoting.html#sao-singleton"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SAO SingleCall">
+<param name="Local" value="remoting.html#sao-singlecall"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IIS Application Configuration">
+<param name="Local" value="remoting.html#iis-application"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Accessing a SAO on the Client">
+<param name="Local" value="remoting.html#remoting-clientsao"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CAO best practices">
+<param name="Local" value="remoting.html#remoting-cao-introduction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Registering a CAO object on the Server">
+<param name="Local" value="remoting.html#remoting-publishcao"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Applying AOP advice to exported CAO objects">
+<param name="Local" value="remoting.html#d4e8253"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Accessing a CAO on the Client">
+<param name="Local" value="remoting.html#remoting-clientcao"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Applying AOP advice to client side CAO objects.">
+<param name="Local" value="remoting.html#d4e8269"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="XML Schema for configuration">
+<param name="Local" value="remoting.html#remoting-schema"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Additional Resources">
+<param name="Local" value="remoting.html#remoting-additional"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value=".NET Enterprise Services">
+<param name="Local" value="services.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="services.html#services-introduction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Serviced Components">
+<param name="Local" value="services.html#services-servicedcomponents"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Server Side">
+<param name="Local" value="services.html#services-serverside"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Client Side">
+<param name="Local" value="services.html#services-clientside"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Web Services">
+<param name="Local" value="webservices.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="webservices.html#web-services-introduction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Server-side">
+<param name="Local" value="webservices.html#server-side"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Removing the need for .asmx files">
+<param name="Local" value="webservices.html#web-services-noasmx"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Injecting dependencies into web services">
+<param name="Local" value="webservices.html#web-services-di"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Exposing POCOs as Web Services">
+<param name="Local" value="webservices.html#web-services-exporter"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Exporting an AOP Proxy as a Web Service">
+<param name="Local" value="webservices.html#d4e8424"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Client-side">
+<param name="Local" value="webservices.html#client-side"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Using VS.NET generated proxy">
+<param name="Local" value="webservices.html#d4e8441"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Generating proxies dynamically">
+<param name="Local" value="webservices.html#d4e8456"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Configuring the proxy instance">
+<param name="Local" value="webservices.html#d4e8462"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Windows Communication Foundation (WCF)">
+<param name="Local" value="wcf.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="wcf.html#wcf-introduction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Configuring WCF services via Dependency Injection">
+<param name="Local" value="wcf.html#wcf-di"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Dependency Injection">
+<param name="Local" value="wcf.html#wcf-di-proxy"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Apply AOP advice to WCF services">
+<param name="Local" value="wcf.html#wcf-aop"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Creating client side proxies declaratively">
+<param name="Local" value="wcf.html#d4e8524"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Exporting POCOs as WCF Services">
+<param name="Local" value="wcf.html#d4e8530"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Integration">
+<param name="Local" value="spring-integration.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Message Oriented Middleware - Apache ActiveMQ and TIBCO EMS">
+<param name="Local" value="messaging.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="messaging.html#d4e8565"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Multiple Vendor Support">
+<param name="Local" value="messaging.html#activemq-multi-vendor"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Separation of Concerns">
+<param name="Local" value="messaging.html#activemq-intro-soc"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Interoperability and provider portability">
+<param name="Local" value="messaging.html#activemq-intro-interop"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="The role of Messaging API in a 'WCF world'">
+<param name="Local" value="messaging.html#activemq-intro-wcf"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Using Spring Messaging">
+<param name="Local" value="messaging.html#activemq-using"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Messaging Template overview">
+<param name="Local" value="messaging.html#activemq-using-messagetemplate"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Connections">
+<param name="Local" value="messaging.html#activemq-using-connections"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Caching Messaging Resources">
+<param name="Local" value="messaging.html#activemq-using-caching-resources"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SingleConnectionFactory">
+<param name="Local" value="messaging.html#activemq-using-caching-singleconnectionfactory"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CachingConnectionFactory">
+<param name="Local" value="messaging.html#activemq-using-caching-cachingconnectionfactory"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Dynamic Destination Management">
+<param name="Local" value="messaging.html#activemq-using-destination-mgmt"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Message Listener Containers">
+<param name="Local" value="messaging.html#activemq-listener-containers"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Transaction Management">
+<param name="Local" value="messaging.html#activemq-using-txmgmt"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Sending a Message">
+<param name="Local" value="messaging.html#activemq-sending-messages"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Using MessageConverters">
+<param name="Local" value="messaging.html#activemq-messageconverter"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Session and Producer Callback">
+<param name="Local" value="messaging.html#messaging-session-callback"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Receiving a message">
+<param name="Local" value="messaging.html#d4e8836"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Synchronous Reception">
+<param name="Local" value="messaging.html#activemq-sync-receive"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Asynchronous Reception">
+<param name="Local" value="messaging.html#activemq-async-reception"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="The ISessionAwareMessageListener interface">
+<param name="Local" value="messaging.html#activemq-sessionaware"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MessageListenerAdapater">
+<param name="Local" value="messaging.html#message-listener-adapter"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Processing messages within a messaging transaction">
+<param name="Local" value="messaging.html#activemq-msg-tx"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Messaging Namespace support">
+<param name="Local" value="messaging.html#activemq-namespace"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Message Oriented Middleware - TIBCO EMS">
+<param name="Local" value="messaging-ems.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="messaging-ems.html#d4e9106"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Interface based APIs">
+<param name="Local" value="messaging-ems.html#d4e9116"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Using Spring's EMS based Messaging">
+<param name="Local" value="messaging-ems.html#d4e9134"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overivew">
+<param name="Local" value="messaging-ems.html#d4e9136"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Connections">
+<param name="Local" value="messaging-ems.html#d4e9139"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Caching Messaging Resources">
+<param name="Local" value="messaging-ems.html#d4e9145"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SingleConnectionFactory">
+<param name="Local" value="messaging-ems.html#d4e9149"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CachingConnectionFactory">
+<param name="Local" value="messaging-ems.html#d4e9156"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Dynamic Destination Management">
+<param name="Local" value="messaging-ems.html#d4e9170"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Accessing Admistrated objects via JNDI">
+<param name="Local" value="messaging-ems.html#d4e9174"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MessageListenerContainers">
+<param name="Local" value="messaging-ems.html#d4e9216"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Transaction Management">
+<param name="Local" value="messaging-ems.html#d4e9220"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Sending a Message">
+<param name="Local" value="messaging-ems.html#d4e9225"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Using MessageConverters">
+<param name="Local" value="messaging-ems.html#ems-messageconverters"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Session and Producer Callback">
+<param name="Local" value="messaging-ems.html#ems-session-producer"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Receiving a messages">
+<param name="Local" value="messaging-ems.html#ems-receive"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Synchronous Reception">
+<param name="Local" value="messaging-ems.html#ems-sync"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Asynchronous Reception">
+<param name="Local" value="messaging-ems.html#ems-async"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="The ISessionAwareMessageListener interface">
+<param name="Local" value="messaging-ems.html#ems-session-aware"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MessageListenerAdapter">
+<param name="Local" value="messaging-ems.html#ems-message-adapter"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Processing messages within a messaging transaction">
+<param name="Local" value="messaging-ems.html#ems-msg-tx"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Messaging Namespace support">
+<param name="Local" value="messaging-ems.html#ems-namespace"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Message Oriented Middleware - MSMQ">
+<param name="Local" value="msmq.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="msmq.html#msmq-introduction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="A quick tour for the impatient">
+<param name="Local" value="msmq.html#msmq-quick-tour"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Using Spring MSMQ">
+<param name="Local" value="msmq.html#msmq-using"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MessageQueueTemplate">
+<param name="Local" value="msmq.html#msmq-messagequeuetemplate"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MessageQueueFactoryObject">
+<param name="Local" value="msmq.html#msmq-messagequeuefactoryobject"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MessageQueue and IMessageConverter resource management">
+<param name="Local" value="msmq.html#msmq-messageconverter"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Message Listener Containers">
+<param name="Local" value="msmq.html#msmq-messagelistenercontainer"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NonTransactionalMessageListenerContainer">
+<param name="Local" value="msmq.html#msmq-NonTransactionalMessageListenerContainer"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TransactionalMessageListenerContainer">
+<param name="Local" value="msmq.html#msmq-TransactionalMessageListenerContainer"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DistributedTxMessageListenerContainer">
+<param name="Local" value="msmq.html#msmq-DistributedTxMessageListenerContainer"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="MessageConverters">
+<param name="Local" value="msmq.html#msmq-using-messageconverters"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Using MessageConverters">
+<param name="Local" value="msmq.html#d4e9627"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Interface based message processing">
+<param name="Local" value="msmq.html#msmq-interface-based-processing"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="">
+<param name="Local" value="msmq.html#msmq-MessageListenerAdapater"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MessageListenerAdapater">
+<param name="Local" value="msmq.html#d4e9676"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Comparison with using WCF">
+<param name="Local" value="msmq.html#msmq-wcf-comparison"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Scheduling and Thread Pooling">
+<param name="Local" value="scheduling.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="scheduling.html#scheduling-introduction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Using the Quartz.NET Scheduler">
+<param name="Local" value="scheduling.html#scheduling-quartz"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Using the JobDetailObject">
+<param name="Local" value="scheduling.html#scheduling-quartz-jobdetail"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Using the MethodInvokingJobDetailFactoryObject">
+<param name="Local" value="scheduling.html#scheduling-quartz-method-invoking-job"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Wiring up jobs using triggers and the SchedulerFactoryObject">
+<param name="Local" value="scheduling.html#scheduling-quartz-cron"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Template Engine Support">
+<param name="Local" value="templating.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="templating.html#templating-introduction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Dependencies">
+<param name="Local" value="templating.html#templating-nvelocity-dependencies"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Configuring a VelocityEngine">
+<param name="Local" value="templating.html#templating-nvelocity-factory"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Simple file based template engine definition">
+<param name="Local" value="templating.html#templating-nvelocity-file"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Configuration Options">
+<param name="Local" value="templating.html#templating-nvelocity-engine-configuration"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Assembly based template loading">
+<param name="Local" value="templating.html#templating-nvelocity-assembly"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Using Spring's IResourceLoader to load templates">
+<param name="Local" value="templating.html#templating-nvelocity-spring-resource-loader"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Defining a custom resource loader">
+<param name="Local" value="templating.html#templating-nvelocity-custom-resource-loader"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Resource Loader configuration options">
+<param name="Local" value="templating.html#templating-nvelocity-resource-loader-configuration"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Using a custom configuration file">
+<param name="Local" value="templating.html#templating-nvelocity-resource-config"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Logging">
+<param name="Local" value="templating.html#templating-nvelocity-resource-logging"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Merging a template">
+<param name="Local" value="templating.html#templating-nvelocity-resource-merging"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Configuring a VelocityEngine without a custom namespace">
+<param name="Local" value="templating.html#templating-nvelocity-resource-namespace"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="VS.NET Integration">
+<param name="Local" value="spring-vsnet.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Visual Studio.NET Integration">
+<param name="Local" value="vsnet.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XML Editing and Validation">
+<param name="Local" value="vsnet.html#vsnet-config-section"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Enhancing the XML Editing and Validation Experience using the Spring.NET Visual Studio 2010 Extension">
+<param name="Local" value="vsnet.html#d4e10028"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Solution Templates">
+<param name="Local" value="vsnet.html#d4e10051"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Class Library">
+<param name="Local" value="vsnet.html#d4e10071"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ADO.NET based application library">
+<param name="Local" value="vsnet.html#d4e10077"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NHibernate based application library">
+<param name="Local" value="vsnet.html#d4e10083"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Spring based web application">
+<param name="Local" value="vsnet.html#d4e10089"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Resharper Type Completion">
+<param name="Local" value="vsnet.html#d4e10095"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Resharper templates">
+<param name="Local" value="vsnet.html#d4e10115"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Versions of XML Schema">
+<param name="Local" value="vsnet.html#vsnet-schema-versions"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="API documentation">
+<param name="Local" value="vsnet.html#vsnet-api-help"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Quickstart applications">
+<param name="Local" value="spring-quickstarts.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IoC Quickstarts">
+<param name="Local" value="quickstarts.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="quickstarts.html#d4e10185"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Movie Finder">
+<param name="Local" value="quickstarts.html#qs-moviefinder"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Getting Started - Movie Finder">
+<param name="Local" value="quickstarts.html#qs-mf-gettingstarted"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="First Object Definition">
+<param name="Local" value="quickstarts.html#qs-mf-firstobject"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Setter Injection">
+<param name="Local" value="quickstarts.html#qs-mf-setterinjection"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Constructor Injection">
+<param name="Local" value="quickstarts.html#qs-mf-constructorinjection"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Summary">
+<param name="Local" value="quickstarts.html#qs-mf-summary"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Logging">
+<param name="Local" value="quickstarts.html#d4e10300"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="ApplicationContext and IMessageSource">
+<param name="Local" value="quickstarts.html#qs-appcontext-messagesource"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="quickstarts.html#d4e10320"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="ApplicationContext and IEventRegistry">
+<param name="Local" value="quickstarts.html#d4e10352"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="quickstarts.html#d4e10354"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Pooling example">
+<param name="Local" value="quickstarts.html#d4e10384"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Implementing Spring.Pool.IPoolableObjectFactory">
+<param name="Local" value="quickstarts.html#d4e10407"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Being smart using pooled objects">
+<param name="Local" value="quickstarts.html#d4e10433"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Using the executor to do a parallel grep">
+<param name="Local" value="quickstarts.html#d4e10445"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="AOP">
+<param name="Local" value="quickstarts.html#d4e10452"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="AOP QuickStart">
+<param name="Local" value="aop-quickstart.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="aop-quickstart.html#aop-quickstart-introduction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="The basics">
+<param name="Local" value="aop-quickstart.html#aop-quickstart-basics"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Applying advice">
+<param name="Local" value="aop-quickstart.html#aop-quickstart-basics-advice"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Using Pointcuts - the basics">
+<param name="Local" value="aop-quickstart.html#aop-quickstart-basics-pointcuts"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Going deeper">
+<param name="Local" value="aop-quickstart.html#aop-quickstart-going-deeper"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Other types of Advice">
+<param name="Local" value="aop-quickstart.html#aop-quickstart-going-deeper-other-advice-types"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Before advice">
+<param name="Local" value="aop-quickstart.html#aop-quickstart-going-deeper-before-advice"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="After advice">
+<param name="Local" value="aop-quickstart.html#aop-quickstart-going-deeper-after-advice"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Throws advice">
+<param name="Local" value="aop-quickstart.html#aop-quickstart-going-deeper-throws-advice"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introductions (mixins)">
+<param name="Local" value="aop-quickstart.html#aop-quickstart-going-deeper-introduction-advice"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Layering advice">
+<param name="Local" value="aop-quickstart.html#aop-quickstart-going-deeper-layering-advice"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Configuring advice">
+<param name="Local" value="aop-quickstart.html#aop-quickstart-going-deeper-configuring-advice"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Using Attributes to define Pointcuts">
+<param name="Local" value="aop-quickstart.html#aop-quickstart-going-deeper-attribute-pointcuts"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="The Spring.NET AOP Cookbook">
+<param name="Local" value="aop-quickstart.html#aop-quickstart-cookbook"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Caching">
+<param name="Local" value="aop-quickstart.html#aop-quickstart-cookbook-caching"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Performance Monitoring">
+<param name="Local" value="aop-quickstart.html#aop-quickstart-cookbook-performance-monitoring-windows"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Retry Rules">
+<param name="Local" value="aop-quickstart.html#aop-quickstart-cookbook-retry"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Spring.NET AOP Best Practices">
+<param name="Local" value="aop-quickstart.html#aop-quickstart-best-practices"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Portable Service Abstraction Quick Start">
+<param name="Local" value="remoting-quickstart.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="remoting-quickstart.html#qs-remoting-introduction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value=".NET Remoting Example">
+<param name="Local" value="remoting-quickstart.html#qs-remoting-projectstructure"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Implementation">
+<param name="Local" value="remoting-quickstart.html#qs-remoting-implementation"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Running the application">
+<param name="Local" value="remoting-quickstart.html#d4e10966"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Remoting Schema">
+<param name="Local" value="remoting-quickstart.html#d4e10976"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value=".NET Enterprise Services Example">
+<param name="Local" value="remoting-quickstart.html#entsvc-example"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Web Services Example">
+<param name="Local" value="remoting-quickstart.html#websvc-example"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Additional Resources">
+<param name="Local" value="remoting-quickstart.html#qs-remoting-additional"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Web Quickstarts">
+<param name="Local" value="web-quickstart.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="web-quickstart.html#d4e11035"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="SpringAir - Reference Application">
+<param name="Local" value="springair.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="springair.html#d4e11054"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Getting Started">
+<param name="Local" value="springair.html#d4e11077"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Container configuration">
+<param name="Local" value="springair.html#d4e11080"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Bi-directional data binding">
+<param name="Local" value="springair.html#d4e11096"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Declarative Validation">
+<param name="Local" value="springair.html#d4e11101"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Internationalization">
+<param name="Local" value="springair.html#d4e11108"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Web Services">
+<param name="Local" value="springair.html#d4e11111"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="ADO.NET Data Access QuickStart">
+<param name="Local" value="data-quickstart.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="data-quickstart.html#d4e11118"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Database configuration">
+<param name="Local" value="data-quickstart.html#d4e11147"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AdoTemplate Configuration">
+<param name="Local" value="data-quickstart.html#d4e11154"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="CommandCallback">
+<param name="Local" value="data-quickstart.html#d4e11160"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Transactions QuickStart">
+<param name="Local" value="tx-quickstart.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="tx-quickstart.html#d4e11171"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application Overview">
+<param name="Local" value="tx-quickstart.html#d4e11180"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Interfaces">
+<param name="Local" value="tx-quickstart.html#d4e11193"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Implementation">
+<param name="Local" value="tx-quickstart.html#d4e11197"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Configuration">
+<param name="Local" value="tx-quickstart.html#d4e11224"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Rollback Rules">
+<param name="Local" value="tx-quickstart.html#d4e11233"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Adding additional Aspects">
+<param name="Local" value="tx-quickstart.html#d4e11240"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="NHibernate QuickStart">
+<param name="Local" value="nh-quickstart.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="nh-quickstart.html#d4e11256"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Getting Started">
+<param name="Local" value="nh-quickstart.html#d4e11261"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Implementation">
+<param name="Local" value="nh-quickstart.html#d4e11293"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="The Data Access Layer">
+<param name="Local" value="nh-quickstart.html#d4e11296"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="The domain objects">
+<param name="Local" value="nh-quickstart.html#d4e11309"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NHibernate based DAO implementation">
+<param name="Local" value="nh-quickstart.html#d4e11315"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="The Service layer">
+<param name="Local" value="nh-quickstart.html#d4e11341"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Integration testing">
+<param name="Local" value="nh-quickstart.html#d4e11350"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Web Application">
+<param name="Local" value="nh-quickstart.html#d4e11361"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Quartz QuickStart">
+<param name="Local" value="quartz-quickstart.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="quartz-quickstart.html#d4e11371"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application Overview">
+<param name="Local" value="quartz-quickstart.html#d4e11390"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Standard job scheduling">
+<param name="Local" value="quartz-quickstart.html#d4e11394"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Scheduling arbitrary methods as jobs">
+<param name="Local" value="quartz-quickstart.html#d4e11417"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="NMS QuickStart">
+<param name="Local" value="nms-quickstart.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="nms-quickstart.html#d4e11437"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Message Destinations">
+<param name="Local" value="nms-quickstart.html#d4e11446"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Gateways">
+<param name="Local" value="nms-quickstart.html#nms-gateways"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Message Data">
+<param name="Local" value="nms-quickstart.html#nms-messagedata"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Message Handlers">
+<param name="Local" value="nms-quickstart.html#nms-handlers"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Message Converters">
+<param name="Local" value="nms-quickstart.html#d4e11495"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Messaging Infrastructure">
+<param name="Local" value="nms-quickstart.html#d4e11502"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Running the application">
+<param name="Local" value="nms-quickstart.html#d4e11528"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="TIBCO EMS QuickStart">
+<param name="Local" value="ems-quickstart.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="ems-quickstart.html#d4e11537"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Message Destinations">
+<param name="Local" value="ems-quickstart.html#d4e11546"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Messaging Infrastructure">
+<param name="Local" value="ems-quickstart.html#d4e11553"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Running the application">
+<param name="Local" value="ems-quickstart.html#d4e11583"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="MSMQ QuickStart">
+<param name="Local" value="msmq-quickstart.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="msmq-quickstart.html#d4e11592"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Message Destinations">
+<param name="Local" value="msmq-quickstart.html#d4e11600"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Gateways">
+<param name="Local" value="msmq-quickstart.html#d4e11610"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Message Data">
+<param name="Local" value="msmq-quickstart.html#d4e11614"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Message Handlers">
+<param name="Local" value="msmq-quickstart.html#d4e11619"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="MessageConverters">
+<param name="Local" value="msmq-quickstart.html#d4e11623"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Messaging Infrastructure">
+<param name="Local" value="msmq-quickstart.html#d4e11627"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Running the application">
+<param name="Local" value="msmq-quickstart.html#d4e11669"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="WCF QuickStart">
+<param name="Local" value="wcf-quickstart.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="wcf-quickstart.html#d4e11678"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="The server side">
+<param name="Local" value="wcf-quickstart.html#d4e11686"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="WCF Dependency Injection and AOP in self-hosted application">
+<param name="Local" value="wcf-quickstart.html#d4e11692"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="WCF Dependency Injection and AOP in IIS web application">
+<param name="Local" value="wcf-quickstart.html#d4e11699"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Client access">
+<param name="Local" value="wcf-quickstart.html#d4e11703"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Spring.NET for Java developers">
+<param name="Local" value="spring-javadevelopers.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Spring.NET for Java Developers">
+<param name="Local" value="javadevelopers.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="javadevelopers.html#jd-introduction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Beans to Objects">
+<param name="Local" value="javadevelopers.html#jd-beans-objects"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="PropertyEditors to TypeConverters">
+<param name="Local" value="javadevelopers.html#jd-propertyeditor-typeconverter"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ResourceBundle-ResourceManager">
+<param name="Local" value="javadevelopers.html#jd-ResourceBundle-ResourceManager"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Exceptions">
+<param name="Local" value="javadevelopers.html#jd-exceptions"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Application Configuration">
+<param name="Local" value="javadevelopers.html#jd-app-config"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AOP Framework">
+<param name="Local" value="javadevelopers.html#jd-aop-framework"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Cannot specify target name at the end of interceptorNames for ProxyFactoryObject">
+<param name="Local" value="javadevelopers.html#NoTargetInInterceptorNames"></OBJECT></LI>
+</UL></UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Appendices">
+<param name="Local" value="spring-appendices.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Classic Spring Usage">
+<param name="Local" value="classic-spring.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Classic Hibernate Usage">
+<param name="Local" value="classic-spring.html#d4e11773"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="The HibernateTemplate">
+<param name="Local" value="classic-spring.html#orm-hibernate-template"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Implementing Spring-based DAOs without callbacks">
+<param name="Local" value="classic-spring.html#orm-hibernate-daos"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Classic Declarative Transaction Configurations">
+<param name="Local" value="classic-spring.html#d4e11820"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Declarative Transaction Configuration using DefaultAdvisorAutoProxyCreator">
+<param name="Local" value="classic-spring.html#classic-tx-advisor"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Declarative Transactions using TransactionProxyFactoryObject">
+<param name="Local" value="classic-spring.html#classic-tx-txproxyfactoryobject"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Concise proxy definitions">
+<param name="Local" value="classic-spring.html#classic-using-abstract-objectdefs"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Declarative Transactions using ProxyFactoryObject">
+<param name="Local" value="classic-spring.html#classic-tx-proxyfactoryobject"></OBJECT></LI>
+</UL></UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="XML Schema-based configuration">
+<param name="Local" value="xsd-config.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="xsd-config.html#xsd-config-introduction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="XML Schema-based configuration">
+<param name="Local" value="xsd-config.html#xsd-config-body"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Referencing the schemas">
+<param name="Local" value="xsd-config.html#xsd-config-body-referencing"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="The tx (transaction) schema">
+<param name="Local" value="xsd-config.html#xsd-config-body-schemas-tx"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="The aop schema">
+<param name="Local" value="xsd-config.html#xsd-config-body-schemas-aop"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="The db schema">
+<param name="Local" value="xsd-config.html#xsd-config-body-schemas-db"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="The wcf schema">
+<param name="Local" value="xsd-config.html#xsd-config-body-schemas-wcf"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="The remoting schema">
+<param name="Local" value="xsd-config.html#xsd-config-body-schemas-remoting"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="The nms messaging schema">
+<param name="Local" value="xsd-config.html#xsd-config-body-schemas-nms"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="The validation schema">
+<param name="Local" value="xsd-config.html#xsd-config-body-schemas-validation"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="The objects schema">
+<param name="Local" value="xsd-config.html#xsd-config-body-schemas-objects"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Setting up your IDE">
+<param name="Local" value="xsd-config.html#xsd-config-setup"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Extensible XML authoring">
+<param name="Local" value="extensible-xml.html"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Introduction">
+<param name="Local" value="extensible-xml.html#extensible-xml-introduction"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Authoring the schema">
+<param name="Local" value="extensible-xml.html#extensible-xml-schema"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Coding a INamespaceParser">
+<param name="Local" value="extensible-xml.html#extensible-xml-namespaceparser"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Coding an IObjectDefinitionParser">
+<param name="Local" value="extensible-xml.html#extensible-xml-parser"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Registering the handler and the schema">
+<param name="Local" value="extensible-xml.html#extensible-xml-registration"></OBJECT></LI>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NamespaceParsersSectionHandler">
+<param name="Local" value="extensible-xml.html#extensible-xml-registration-spring-handlers"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Using a custom extension in your Spring XML configuration">
+<param name="Local" value="extensible-xml.html#extensible-xml-using"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Further Resources">
+<param name="Local" value="extensible-xml.html#extensible-xml-resources"></OBJECT></LI>
+</UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Spring.NET's spring-objects.xsd">
+<param name="Local" value="springobjectsxsd.html"></OBJECT></LI>
+</UL></UL>
+</UL>
+</BODY></HTML>

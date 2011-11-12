@@ -1,0 +1,9 @@
+#!/bin/sh
+#
+# copy docs and push to gh-pages
+#
+
+cp ../spring-net/doc/reference/target reference -f -r
+# todo: add any unvresioned file
+git-baseless-commit Publishing documentation.
+git push -f origin gh-pages
