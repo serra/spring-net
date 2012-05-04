@@ -1637,7 +1637,7 @@
 
   </object>
 
-  <alias name="SQLite-1.0.65" alias="System.Data.SQLite"/>
+  <alias name="SQLite-1.0.80" alias="System.Data.SQLite"/>
   
   <!-- Firebird -->
   
