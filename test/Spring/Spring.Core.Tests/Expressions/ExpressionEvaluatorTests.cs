@@ -273,11 +273,21 @@ namespace Spring.Expressions
 
         #endregion Serialization Tests
 
-        [Test]
+        [Test(Description = "https://jira.springsource.org/browse/SPRNET-1529")]
         public void TestConstantRead()
         {
-            object value = ExpressionEvaluator.GetValue(null, "Society.ByteConst == 1");
-            Assert.AreEqual(true, value);
+            object value;
+            value = ExpressionEvaluator.GetValue(null, "Society.ByteStatic");
+            Assert.AreEqual(1, value);
+
+            value = ExpressionEvaluator.GetValue(null, "Society.StringConst");
+            Assert.AreEqual("stringconst", value);
+
+            value = ExpressionEvaluator.GetValue(null, "T(Society).IntConst");
+            Assert.AreEqual(1, value);
+
+            value = ExpressionEvaluator.GetValue(null, "T(Society).ByteConst");
+            Assert.AreEqual(1, value);
         }
 
         [Test]

@@ -84,7 +84,13 @@ namespace Spring
         public string Name = "League of Extraordinary Gentlemen";
         public static string Advisors = "advisors";
         public static string President = "president";
+
+        public const string StringConst = "stringconst";
+        public const int IntConst = 1;
+        
+        public static byte ByteStatic = 1;
         public const byte ByteConst = 1;
+
 
         private IList members = new ArrayList();
         private IDictionary officers = new Hashtable();
