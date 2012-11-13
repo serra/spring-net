@@ -312,6 +312,28 @@ namespace Spring.Expressions
             Assert.That(value, Is.EqualTo("2008-05-15"));
         }
 
+        [Test(Description = "https://jira.springsource.org/browse/SPRNET-1529")]
+        public void TestByteVariableExpression()
+        {
+            byte aByte = 1;
+            Dictionary<string, object> vars = new Dictionary<string, object>();
+            vars["abyte"] = aByte;
+
+            // this shows that putting in a byte and getting it out works:
+            object evaluatedByte = ExpressionEvaluator.GetValue(null, "#abyte", vars);
+            Assert.That(evaluatedByte, Is.EqualTo(aByte));
+
+            object theyAreEqual;
+
+            // this shows that comparing the bytes works:
+            theyAreEqual = ExpressionEvaluator.GetValue(null, "#abyte == #abyte", vars);
+            Assert.AreEqual(true, theyAreEqual);
+
+            // this shows that comparing to integer literal does too:
+            theyAreEqual = ExpressionEvaluator.GetValue(null, "#abyte == 1", vars);
+            Assert.AreEqual(true, theyAreEqual);
+        }
+
         [Test]
         public void ThrowsSyntaxErrorException()
         {
